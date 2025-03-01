@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("orld");
+    printf("old");
     return 0;
 }

@@ -11,7 +11,7 @@ int main()
     while ((i < 3) && (j < 3)){
         if (list1[i] < list2[j]){
             list_output[k] = list1[i];
-            k++;
+            k += 1;
             i++;
         }
         else if (list1[i] > list2[j]){

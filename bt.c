@@ -17,7 +17,7 @@ int main()
         else if (list1[i] > list2[j]){
             list_output[k] = list2[j];
             k++;
-            j++;
+            j += 1;
         }
         else{
             list_output[k] = list2[j];
